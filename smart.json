@@ -1,9 +1,9 @@
 {
-  "name": "Foundation-5",
-  "description": "Foundation 5 packaged for meteor.",
-  "homepage": "https://github.com/ConnorAtherton/meteor-foundation-5",
-  "author": "Connor Atherton (http://connoratherton.com)",
+  "name": "Foundation-5-scss",
+  "description": "Foundation 5 packaged for meteor to work with Scss/Compass",
+  "homepage": "https://github.com/manofstone/meteor-foundation-5-scss",
+  "author": "James Stone (http://manofstone.com)",
   "version": "0.2.0",
-  "git": "https://github.com/ConnorAtherton/meteor-foundation-5.git",
+  "git": "https://github.com/manofstone/meteor-foundation-5-scss.git",
   "packages": {}
 }
